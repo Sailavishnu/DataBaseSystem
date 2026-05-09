@@ -4,6 +4,7 @@ SQL> CREATE TABLE DELETEDEMPLOYEE (employee_id INT PRIMARY KEY, employee_name VA
 
 Table created.
 
+
 SQL> DESC EMPLOYEE;
  Name                                      Null?    Type
  ----------------------------------------- -------- ----------------------------
